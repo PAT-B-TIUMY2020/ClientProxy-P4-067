@@ -8,6 +8,7 @@ namespace ClientProxy_P4_20180140067
 {
     class Program
     {
+        //Masukan kode berikut kedalam program.cs
         static void Main(string[] args)
         {
             ServiceReference1.MatematikaClient obj = new ServiceReference1.MatematikaClient();
